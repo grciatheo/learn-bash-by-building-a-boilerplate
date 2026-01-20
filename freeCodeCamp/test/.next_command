@@ -211,3 +211,4 @@ ls --color=auto
 mv website website-boilerplat
 ls --color=auto
 mv website-boilerplat website-boilerplate
+ls --color=auto
